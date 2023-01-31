@@ -1,0 +1,5 @@
+
+#follow adafruit circuitpython instructions at https://learn.adafruit.com/adafruit-trinkey-qt2040/circuitpython
+#will also need to configure new rp2040 dongle with u2if firmware
+#also install circuitpython adapter https://github.com/pimoroni/circuitpython_adapter
+smbus2==0.4.2
