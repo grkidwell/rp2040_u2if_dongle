@@ -1,0 +1,1 @@
+library for using adafruit trinkey RP2040 as usb2smbus dongle
